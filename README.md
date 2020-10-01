@@ -1,6 +1,6 @@
 # Data-Science
 
-Discussed all the needed concepts for the to understand data science.
+Discussed all the needed concepts to understand data science.
 
 Discussed basic python packages 
 
